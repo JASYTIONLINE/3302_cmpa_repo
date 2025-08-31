@@ -12,7 +12,7 @@ classification: public
 retention: permanent
 integrityCheck: true
 ---
-[[i[readme|CMPA 3302 Knowledge Base Explained]]
+[[readme|CMPA 3302 Knowledge Base Explained]]
 
 This index page is the **navigational tool and portal into the CMPA 3302 knowledge base.** Its primary function is to serve as the entry point into the repository, allowing quick access to every **Delta Lane** and to the internal explanations on the
 
