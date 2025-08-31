@@ -14,7 +14,6 @@ classification: public
 retention: permanent
 integrityCheck: true
 ---
-- [[index|Home – CMPA 3302 Knowledge Base Portal]]
 # The Learning Center Explained
 
 This ReadMe explains the **learning delta lane**. where the index is the map, this page defines **what this lane is for, how it works, and when it should be used**.  
@@ -22,8 +21,8 @@ This ReadMe explains the **learning delta lane**. where the index is the map, th
 ---
 ### Navigation
 
-- [[index|back to d7 – learning index]]  
-
+- [[./index|Back to d7 – Learning Center]]  
+- [[index|CMPA 3302 Knowledge Base Portal - Home]]
 ---
 
 ## What is The D7 Learnin Center?
@@ -39,9 +38,9 @@ Where **D1 Personnel** defines “what i do well / what i need to improve,” Th
 
 The Learning Center is organized chronologically across the improvement cycle:  
 
-- [[preparation/index|preparation]] → practical preparations before beginning work (note-taking strategies, research methods, study plans).  
-- [[d3-workspace/d33-workflow/03-execution/index|execution]] → lessons learned during the work itself (time management, workflow adjustments, team collaboration).  
-- [[reflection/index|reflection]] → after-action reviews and improvement notes once the work is closed.  
+- [[./preparation/index|preparation]] → practical preparations before beginning work (note-taking strategies, research methods, study plans).  
+- [[./execution/index|execution]] → lessons learned during the work itself (time management, workflow adjustments, team collaboration).  
+- [[./reflection/index|reflection]] → after-action reviews and improvement notes once the work is closed.  
 
 Together, these ensure a structured cycle of lessons before, during, and after every project.  
 
@@ -84,16 +83,16 @@ it guarantees that:
 - reflection generates actionable lessons learned.  
 
 ---
+### Links to Other Delta Lanes  
 
-### Other Delta Lanes  
-
-- [[../d0-compliance/index|D0 Compliance]]  
-- [[../d1-personnel/index|D1 personal]]  
-- [[../d2-knowledge/index|D2 Knowledge]]  
-- [[../d3-workspace/index|D3  Workspace]]  
-- [[../d4-sustainment/index|D4 Sustainment]]  
-- [[d6-systems-integration/automation-tools/obsidian|D6 Systems Integration]]  
-- [[d8-monitoring-control/index|D8 Monitoring & Control]]  
+- [[d1-personal/index|D1 Personal Portal]]  
+- [[d2-knowledge/index|D2 Knowledge Center Portal]]
+- [[d3-workspace/index|D3 Workspace Portal]] 
+- [[d4-sustainment/index|D4 Sustainment Center]]  
+- D5 Not Used
+- [[d6-systems-integration/index|D6 Systems Integration Portal]]  
+- [[d7-learning/index|D7 Learning Center Portal]]  
+- [[d8-monitoring-control/index|D8 QA/QC Monitor & Control Portal]]  
 
 ---
 ####  **References**

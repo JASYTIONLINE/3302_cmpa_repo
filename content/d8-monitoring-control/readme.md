@@ -60,22 +60,20 @@ TBD
 
 ## Purpose of B8 Monitor & Control
 
-- TBD
----
-
-### Other Delta Lanes  
-
-- [[d0-compliance/index|D0 Compliance]]  
-- [[../d1-personnel/index|D1 – Personal]]  
-- [[d2-knowledge/index|D2 – Knowledge]]  
-- [[d3-workspace/index|D3 Workspace]]  
-- [[d4-sustainment/index|D4 Sustainment]]  
-- [[d6-systems-integration/automation-tools/obsidian|D6 Systems Integration]]  
-- [[d7-learning/index|D7 Learning]]
-
 
 ---
+### Links to Other Delta Lanes  
 
+- [[d1-personal/index|D1 Personal Portal]]  
+- [[d2-knowledge/index|D2 Knowledge Center Portal]]
+- [[d3-workspace/index|D3 Workspace Portal]] 
+- [[d4-sustainment/index|D4 Sustainment Center]]  
+- D5 Not Used
+- [[d6-systems-integration/index|D6 Systems Integration Portal]]  
+- [[d7-learning/index|D7 Learning Center Portal]]  
+- [[d8-monitoring-control/index|D8 QA/QC Monitor & Control Portal]]  
+
+---
 #### **References**
 
 - PMBOK 6th edition** — closing group (lessons learned).  

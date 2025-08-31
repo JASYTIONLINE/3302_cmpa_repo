@@ -12,7 +12,7 @@ classification: public
 retention: permanent
 integrityCheck: true
 ---
-[[readme|CMPA 3302 Knowledge Base Explained]]
+# CMPA 3302 Knowledge Base - Home Base
 
 This index page is the **navigational tool and portal into the CMPA 3302 knowledge base.** Its primary function is to serve as the entry point into the repository, allowing quick access to every **Delta Lane** and to the internal explanations on the
 
@@ -24,7 +24,9 @@ The **index page functions as:**
 The **purpose of this page** is to ensure that users of the repo can move seamlessly between the knowledge base structure and the explanatory doctrine that governs it. This page is both a **map** and a **guide**: it shows where everything is stored and explains how to use it.
 
 ---
+### [[readme|What is the CMPA 3302 Knowledge Base (ReadMe)]]
 
+---
 ### Quick Links → Delta Lanes & Explanations
 
 - [[d0-compliance/index|D0 Compliance Directorate Portal]]  Governs repo-wide standards,   policies, and compliance rules.
@@ -35,11 +37,4 @@ The **purpose of this page** is to ensure that users of the repo can move seamle
 - [[d6-systems-integration/automation-tools/obsidian|D6  Systems Integration Portal]] → Defines folder structures, naming conventions, and tool interoperability.
 - [[d7-learning/index|D7 Learning Portal]] Captures preparation, execution, and reflection lessons for continuous improvement.
 - [[d8-monitoring-control/index|D8 Quality Monitor & Control Portal]] → Stores rubrics, iterative evaluations, and oversight procedures.
-
-## [[readme|What are Delta Lanes?]]
-
-In this system, **Delta Lanes** are the structural categories that organize the repo. The term comes from the **DragonEye Industries Holdings Corporation DELTA System (D-System)**. Each Delta Lane corresponds to a functional area (D0–D9) that keeps work organized, auditable, and aligned
-with standards.
-
-In practical terms, these are the **“categories” the instructor required** for the CMPA 3302 knowledge base project. By calling them Delta Lanes, the repo frames them in a governance and project-management context while still fulfilling the assignment rubric.
 

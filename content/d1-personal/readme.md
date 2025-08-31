@@ -23,7 +23,7 @@ should be used**.
 
 ### Navigation
 
-- [[index|Back to D1 – Personnel Index]]  
+- [[./index|Back to D1 – Personnel Index]]  
 - [[../D7-Learning/index|Go to D7 – Learning]]  
 
 ---
@@ -78,3 +78,16 @@ is like a **procedure**: prescriptive, process-driven, and experimental.
 
 Together, they form a feedback loop:  
 - **D1 diagnoses** → **D7 prescribes** → results feed back into D1.  
+
+---
+### Links to Other Delta Lanes  
+
+- [[d1-personal/index|D1 Personal Portal]]  
+- [[d2-knowledge/index|D2 Knowledge Center Portal]]
+- [[d3-workspace/index|D3 Workspace Portal]] 
+- [[d4-sustainment/index|D4 Sustainment Center]]  
+- [[d6-systems-integration/index|D6 Systems Integration Portal]]  
+- [[d7-learning/index|D7 Learning Center Portal]]  
+- [[d8-monitoring-control/index|D8 QA/QC Monitor & Control Portal]]  
+
+---

@@ -1,5 +1,5 @@
 ---
-title: Workspace ReadMe
+title: What is a Workspace (ReadMe)
 date: 2025-08-29
 draft: false
 tags:
@@ -13,10 +13,9 @@ classification: public
 retention: permanent
 integrityCheck: true
 ---
-- [[index|Home – CMPA 3302 Knowledge Base Portal]]
 # Workspace Explanations
 
-This README explains the **Workspace Delta Lane**. Where the index is the
+This README explains the **Workspace Lane**. Where the index is the
 map, this page defines **what this lane is for, how it works, and when it
 should be used**.  
 
@@ -24,9 +23,9 @@ should be used**.
 
 ### Navigation
 
-- [[../index|Home – CMPA 3302 Knowledge Base Portal]]  
-- [[index|Back to D3 – Workspace Index]]  
+- [[./index|Back to D3 – Workspace Index]]  
 - [[d3-workspace/d33-workflow/index|Go to D5 – Workflow]]  
+- [[index|CMPA 3302 Knowledge Base Portal - Home]]
 
 ---
 
@@ -96,9 +95,20 @@ assignments under PMI-aligned processes. It ensures that:
 
 ---
 
+### Links to Other Delta Lanes  
+
+- [[d1-personal/index|D1 Personal Portal]]  
+- [[d2-knowledge/index|D2 Knowledge Center Portal]]
+- [[d3-workspace/index|D3 Workspace Portal]] 
+- [[d4-sustainment/index|D4 Sustainment Center]]  
+- [[d6-systems-integration/index|D6 Systems Integration Portal]]  
+- [[d7-learning/index|D7 Learning Center Portal]]  
+- [[d8-monitoring-control/index|D8 QA/QC Monitor & Control Portal]]  
+
+---
+
 #### **References**
 
 - **PMBOK 6th Edition** — process groups (Initiating → Closing).  
 - **PMBOK 7th Edition** — performance domains guiding academic projects.  
 - **ISO 30401** — Knowledge Management System alignment.  
-

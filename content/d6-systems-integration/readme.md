@@ -14,17 +14,15 @@ classification: public
 retention: permanent
 integrityCheck: true
 ---
-- [[index|Home – CMPA 3302 Knowledge Base Portal]]
-# D6 – Systems Integration Explanations
+# What is the D6 Systems Integration Portal
 
 This README explains the **Systems Integration Delta Lane**. Where the index is the map, this page defines **what this lane is for, how it works, and when it should be used**.  
 
 ---
-
 ### Navigation
 
-- [[index|Back to D6 – Systems Integration Index]]  
-
+- [[./index|Back to D6 – Systems Integration Index]] 
+- [[index|CMPA 3302 Knowledge Base Portal - Home]]
 
 ---
 
@@ -40,9 +38,9 @@ D6–Systems Integration is the **technology interoperability lane** of the DELT
 
 Systems Integration is organized into five functional areas:  
 
-- [[d7-learning/obsidian/index|Obsidian Guides (linked)]] → Guides for note-taking, linking, publishing, and plugins.  
+- [[d6-systems-integration/technical-guides/obsidian/index|Obsidian Guides (linked)]] → Guides for note-taking, linking, publishing, and plugins.  
 - [[d6-systems-integration/technical-guides/github/index|GitHub Guides & Troubleshooting (linked)]] → Git commits, branching, sync, and common errors.
--  [[canvas|Canvas & Support Integration (linked)]] → Submission workflows, support desk references,  integration into academic processes.  
+- [[canvas|Canvas & Support Integration (linked)]] → Submission workflows, support desk references,  integration into academic processes.  
 - [[d6-systems-integration/automation-tools/index|Automation & Scripts (linked)]] → Scripts and prompt libraries that automate monitoring and control.  
 - [[d6-systems-integration/integration-protocols/index|Integration Protocols (linked)]] → Decision matrices that define *when, why, who, and how* each system is applied.  
 
@@ -88,19 +86,17 @@ It guarantees that:
 - This repo always points back to the authoritative artifacts in parent DEIHC repositories.  
 
 ---
+### Links to Other Delta Lanes  
 
-### Other Delta Lanes  
-
-- [[../D0-Compliance/index|D0 – Compliance]]  
-- [[../D1-Personnel/index|D1 – Personnel]]  
-- [[../D2-Knowledge/index|D2 – Knowledge]]  
-- [[../D3-Workspace/index|D3 – Workspace]]  
-- [[../D4-Sustainment/index|D4 – Sustainment]]  
-- [[../D7-Learning/index|D7 – Learning]]  
-- [[d8-monitoring-control/index|D8 – Monitoring & Control]]  
+- [[d1-personal/index|D1 Personal Portal]]  
+- [[d2-knowledge/index|D2 Knowledge Center Portal]]
+- [[d3-workspace/index|D3 Workspace Portal]] 
+- [[d4-sustainment/index|D4 Sustainment Center]]  
+- [[d6-systems-integration/index|D6 Systems Iintegration]]  
+- [[d7-learning/index|D7 Learning Center Portal]]  
+- [[d8-monitoring-control/index|D8 QA/QC Monitor & Control Portal]]  
 
 ---
-
 #### **References**  
 
 - **PMBOK 6 & 7** — lifecycle and domain alignment.  

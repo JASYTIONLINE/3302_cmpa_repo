@@ -13,8 +13,6 @@ classification: public
 retention: permanent
 integrityCheck: true
 ---
-
-[[index|Home – CMPA 3302 Knowledge Base Portal]] 
 # D2 – Knowledge Center Explained
 
 This ReadMe explains the **Knowledge Delta Lane**. Where the index is the
@@ -25,13 +23,14 @@ should be used**.
 
 ### Navigation
 
-- [[index|Back to D2 – Knowledge Index]]  
+- [[./index|Back to D2 – Knowledge Index]]  
 - [[../D0-Compliance/index|Go to D0 – Compliance]]  
 - [[../D3-Workspace/index|Go to D3 – Workspace]]  
+- [[index|CMPA 3302 Knowledge Base Portal - Home]]
 
 ---
 
-## What is D2 – Knowledge?
+## What is D2 the D2 Knowledge Center?
 
 D2–Knowledge is the **Information Management / KMS lane**. Its function
 is to define the **rules and systems for handling information** in the
@@ -96,3 +95,15 @@ Without D2, the knowledge base would collapse into chaos — documents would be 
 - **PMBOK 6th Edition** — Process group alignment.  
 - **PMBOK 7th Edition** — Performance domain alignment.  
 
+---
+### Links to Other Delta Lanes  
+
+- [[d1-personal/index|D1 Personal Portal]]  
+- [[d2-knowledge/index|D2 Knowledge Center Portal]]
+- [[d3-workspace/index|D3 Workspace Portal]] 
+- [[d4-sustainment/index|D4 Sustainment Center]]  
+- [[d6-systems-integration/index|D6 Systems Integration Portal]]  
+- [[d7-learning/index|D7 Learning Center Portal]]  
+- [[d8-monitoring-control/index|D8 QA/QC Monitor & Control Portal]]  
+
+---

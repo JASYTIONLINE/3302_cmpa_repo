@@ -35,7 +35,7 @@ It also contains the Student's Universal [[d1-personal/d11-stakeholder-registry/
 ---
 ### In-Depth Explanations  
 
-- [[readme|D1 Personal Tracking Portal Explained]] → Full doctrinal definitions and usage guidance for this Delta Lane.  
+- [[./readme|D1 Personal Tracking Portal Explained]] → Full doctrinal definitions and usage guidance for this Delta Lane.  
 
 ---
 ### Related Delta Lane  
@@ -51,6 +51,6 @@ It also contains the Student's Universal [[d1-personal/d11-stakeholder-registry/
 - [[d3-workspace/index|D3 Workspace Portal]] 
 - [[d4-sustainment/index|D4 Sustainment Center]] 
 - D5 Not yet assigned
-- [[d6-systems-integration/automation-tools/obsidian|D6 Systems Integration Portal]]  
+- [[d6-systems-integration/index|D6 Systems Integration Portal]]  
 - [[d7-learning/index|D7 Learning Center Portal]]  
 - [[d8-monitoring-control/index|D8 QA/QC Monitor & Control Portal]]  

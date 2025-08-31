@@ -1,5 +1,5 @@
 ---
-title: D4 Sustainment Portal
+title: D4 Systems Integration Protal
 date: 2025-08-29
 draft: false
 tags:
@@ -13,16 +13,18 @@ classification: public
 retention: permanent
 integrityCheck: true
 ---
-# D4 Sustainment Portal
-
-Placeholder for the D4 Portal 
+# D6 Systems Integration Portal
+Placeholder Index Page
 
 ---
 ### Navigation
 
+- [[d6-systems-integration/readme|What is the D6 Systems Integration Portal? (ReadMe)]]
 - [[index|CMPA 3302 Knowledge Base Portal - Home]]
 
 ---
+### D6 Sub-folders
+TBP
 
 ---
 ### Links to Other Delta Lanes  

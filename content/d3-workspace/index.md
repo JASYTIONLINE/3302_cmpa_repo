@@ -13,7 +13,6 @@ classification: public
 retention: permanent
 integrityCheck: true
 ---
-- [[index|Home – CMPA 3302 Knowledge Base Portal]]
 # D3 – Workspace Portal  
 
 This index page is the **navigational entry point for the D3–Workspace Delta Lane.** Its purpose is to house the **weekly work cycles** and project deliverables organized by PMI process groups.  
@@ -44,16 +43,17 @@ Each week is further divided into the five PMI process groups:
 ---
 ### In-Depth Explanations  
 
-- [[readme|D3 Workspace ReadMe)]] → Full doctrinal definitions and usage guidance for this Delta Lane.  
+- [[./readme|D3 Workspace (ReadMe)]] → Full doctrinal definitions and usage guidance for this Delta Lane.  
 
 ---
 ### Links to Other Delta Lanes  
 
+- [[index|CMPA 3302 Knowledge Base Portal - Home]]
 - [[d0-compliance/index|D0 Compliance Directorate Portal]]
 - [[d1-personal/index|D1 Personal Portal]]  
 - [[d2-knowledge/index|D2 Knowledge Center Portal]]
 - [[d3-workspace/index|D3 Workspace Portal]] 
 - [[d4-sustainment/index|D4 Sustainment Center]]  
-- [[d6-systems-integration/automation-tools/obsidian|D6 Systems Integration Portal]]  
+- [[d6-systems-integration/index|D6 Systems Integration Portal]]  
 - [[d7-learning/index|D7 Learning Center Portal]]  
 - [[d8-monitoring-control/index|D8 QA/QC Monitor & Control Portal]]  

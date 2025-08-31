@@ -1,5 +1,5 @@
 ---
-title: Sustainment ReadMe
+title: What is the D4 Sustainment Portal (ReadMe)
 date: 2025-08-29
 draft: false
 tags:
@@ -13,8 +13,7 @@ classification: public
 retention: permanent
 integrityCheck: true
 ---
-- [[index|Home – CMPA 3302 Knowledge Base Portal]]
-# Sustainment Explanations (README)
+# What is the D4 Sustainment Portal (README)
 
 This README explains the **Sustainment Delta Lane**. Where the index is the map, this page defines **what this lane is for, how it works, and when it should be used**.  
 
@@ -24,6 +23,7 @@ This README explains the **Sustainment Delta Lane**. Where the index is the map,
 
 - [[index|Back to D4 – Sustainment Index]]  
 - [[d3-workspace/d33-workflow/index|Go to D5 – Workflow]]  
+- [[index|CMPA 3302 Knowledge Base Portal - Home]]
 
 ---
 
@@ -83,19 +83,17 @@ It guarantees that:
 - The repo remains a consistent, reliable workspace over time.  
 
 ---
+### Links to Other Delta Lanes  
 
-### Other Delta Lanes  
-
-- [[../D0-Compliance/index|D0 – Compliance]]  
-- [[../D1-Personnel/index|D1 – Personnel]]  
-- [[../D2-Knowledge/index|D2 – Knowledge]]  
-- [[../D3-Workspace/index|D3 – Workspace]]  
-- [[d6-systems-integration/automation-tools/obsidian|D6 – Systems Integration]]  
-- [[../D7-Learning/index|D7 – Learning]]  
-- [[d8-monitoring-control/index|D8 – Monitoring & Control]]  
+- [[d1-personal/index|D1 Personal Portal]]  
+- [[d2-knowledge/index|D2 Knowledge Center Portal]]
+- [[d3-workspace/index|D3 Workspace Portal]] 
+- [[d4-sustainment/index|D4 Sustainment Center]]  
+- [[d6-systems-integration/index|D6 Systems Integration Portal]]  
+- [[d7-learning/index|D7 Learning Center Portal]]  
+- [[d8-monitoring-control/index|D8 QA/QC Monitor & Control Portal]]  
 
 ---
-
 #### **References**  
 
 - **PMBOK 6th Edition** — process group alignment.  

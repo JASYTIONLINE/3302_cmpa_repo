@@ -1,5 +1,5 @@
 ---
-title: D4 Sustainment Portal
+title: The D5 Section has not been established
 date: 2025-08-29
 draft: false
 tags:
@@ -13,9 +13,9 @@ classification: public
 retention: permanent
 integrityCheck: true
 ---
-# D4 Sustainment Portal
+# This page is intentionally left Blank
 
-Placeholder for the D4 Portal 
+Just here to show I skipped D5 on purpose
 
 ---
 ### Navigation
