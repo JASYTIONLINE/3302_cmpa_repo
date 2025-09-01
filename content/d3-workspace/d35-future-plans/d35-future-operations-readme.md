@@ -25,7 +25,7 @@ The scope is limited to **this class**. This is where I plan the semester’s lo
 
 ### Navigation  
 
-- [[index|back to D35 Future operations index]]  
+- [[d35-future-operations-index|Back to The D35 Future Operation Index]]  
 - [[../index|back to D3 Workspace index]]  
 
 ---

@@ -35,12 +35,7 @@ It also contains the Student's Universal [[d1-personal/d11-stakeholder-registry/
 ---
 ### In-Depth Explanations  
 
-- [[d1-personal/readme|The D1 Personal Tracking Portal (ReadMe)]] → Full doctrinal definitions and usage guidance for this Delta Lane.  
-
----
-### Related Delta Lane  
-
-- [[../D7-Learning/index|D7 – Learning]] → Tools and methods for making improvements.
+-[[d1-personal/readme|What is The D1 Personal Tracking Portal (ReadMe)]] → Full doctrinal definitions and usage guidance for this Delta Lane.  
 
 ---
 ### Links to Other Delta Lanes  

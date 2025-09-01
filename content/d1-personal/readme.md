@@ -1,5 +1,5 @@
 ---
-title: D1 Personal Portal - ReadMe
+title: What is The D1 Personal Portal(ReadMe)
 date: 2025-08-29
 draft: false
 tags:
@@ -15,9 +15,7 @@ integrityCheck: true
 ---
 [[index|Home – CMPA 3302 Knowledge Base Portal]] 
 
-This ReadMe explains the **Personnel Delta Lane**. 
-This page defines **what this lane is for, how it works, and when it
-should be used**.
+This ReadMe explains the **Personnel Delta Lane**.  This page defines **what this lane is for, how it works, and when it should be used**.
 
 ---
 

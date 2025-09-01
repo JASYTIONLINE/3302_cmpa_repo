@@ -28,13 +28,12 @@ D2 does not hold books, class notes, or assignments.
 ### Quick Links → D2 Subfolders  
 
 - [[d2-knowledge/naming-conventions/index|Naming Conventions]] → Rules for filenames, folders, and metadata.  
-- [[Obsidian 1|Filing Standards]] → How documents are placed and cross-referenced.  
 - [[d2-knowledge/retrieval/index|Retrieval]] → Guidance for making information traceable and findable.  
 
 ---
 ### In-Depth Explanations  
 
-- [[d2-knowledge/readme|D2 – Knowledge Explanations (README)]] → Full doctrinal definitions and usage guidance for this Delta Lane.  
+- [[d2-knowledge/readme|What is The D2 Knowledge Center Portal(README)]] → Full doctrinal definitions and usage guidance for this Delta Lane.  
 
 ---
 ### Related Delta Lanes  

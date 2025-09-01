@@ -27,13 +27,13 @@ Plans created here are handed forward to **30 – current operations** in worksp
 ---
 ### Links
 
-- [[d35-future-operations-index|D35 Future Operations Home]]
+- [[d35-future-operations-index|Back to The D35 Future Operation Index]] 
 
 
 ---
 
 ### In-depth Explanations  
 
-- [[readme|Future Operations ReadMe]] → full doctrinal definitions and usage guidance for this sub-lane.  
+- [[Future Operations ReadMe]] → full doctrinal definitions and usage guidance for this sub-lane.  
 
 ---

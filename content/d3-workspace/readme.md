@@ -21,8 +21,8 @@ This README explains the **Workspace Lane**. Where the index is the map, this pa
 
 ### Navigation
 
-- [[./index|Back to D3 – Workspace Index]]  
-- [[d3-workspace/d33-workflow/index|Go to D5 – Workflow]]  
+- [[../D3-Workspace/index|Back to The D3 Workspace]]  
+- [[d3-workspace/d33-workflow/index|Go to D33 – Workflow]]  
 - [[index|CMPA 3302 Knowledge Base Portal - Home]]
 
 ---

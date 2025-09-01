@@ -1,5 +1,5 @@
 ---
-title: Explanation of Compliance Directorate
+title: What is The D0 Compliance Directorate (ReadMe)
 date: 2025-08-29
 draft: false
 tags:
@@ -14,16 +14,11 @@ retention: permanent
 integrityCheck: true
 ---
 [[index|Home – CMPA 3302 Knowledge Base Portal]] 
-# Compliance Directorate Explanations
+# What is the D0 Compliance Directorate (ReadMe)
 
-	This README provides the doctrinal explanation of the **Compliance
-Directorate**. Where the index is the map, this page defines **what this
-lane is for, how it works, and when it should be used**.
+This README provides the doctrinal explanation of the **Compliance Directorate**. 
 
-	Compliance is the **civilian equivalent of Command and Control (C2)** in
-the DELTA system. It ensures that the entire knowledge base functions
-under rules, standards, and validation procedures. Without compliance,
-the rest of the Delta Lanes cannot operate effectively.
+Where the index is the map, this page defines what this lane is for, how it works, and when it should be used.  Compliance is the **civilian equivalent of Command and Control (C2)** in the DELTA system. It ensures that the entire knowledge base functions under rules, standards, and validation procedures. Without compliance, the rest of the Delta Lanes cannot operate effectively.
 
 ---
 ### Navigation
