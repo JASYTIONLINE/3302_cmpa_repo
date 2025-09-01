@@ -3,7 +3,6 @@ title: D5 This Section has not been established
 date: 2025-08-29
 draft: false
 tags:
-  - readme
   - sustainment
   - support
   - tools
@@ -13,7 +12,7 @@ classification: public
 retention: permanent
 integrityCheck: true
 ---
-# This page is intentionally left Blank
+# D5 Directorate: This page is intentionally left Blank
 
 Just here to show I skipped D5 on purpose
 

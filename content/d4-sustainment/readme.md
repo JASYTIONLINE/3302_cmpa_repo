@@ -21,8 +21,7 @@ This README explains the **Sustainment Delta Lane**. Where the index is the map,
 
 ### Navigation
 
-- [[index|Back to D4 – Sustainment Index]]  
-- [[d3-workspace/d33-workflow/index|Go to D5 – Workflow]]  
+- [[d4-sustainment/index|Back to D4 – Sustainment Index]]  
 - [[index|CMPA 3302 Knowledge Base Portal - Home]]
 
 ---

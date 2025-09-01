@@ -1,5 +1,5 @@
 ---
-title: Systems Integration
+title: "D5 Directorate (ReadMe): This Page Intentionally Left Blank"
 date: 2025-08-29
 draft: false
 tags:
@@ -14,14 +14,14 @@ classification: public
 retention: permanent
 integrityCheck: true
 ---
-# What is the D6 Systems Integration Portal
+# What is the D6 Systems Integration Portal(ReadMe)
 
 This README explains the **Systems Integration Delta Lane**. Where the index is the map, this page defines **what this lane is for, how it works, and when it should be used**.  
 
 ---
 ### Navigation
 
-- [[./index|Back to D6 – Systems Integration Index]] 
+- [[d6-systems-integration/index|Back to D6 Systems Integration Portal]]
 - [[index|CMPA 3302 Knowledge Base Portal - Home]]
 
 ---

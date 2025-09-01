@@ -30,7 +30,7 @@ This index page is the **navigational entry point for the d8–monitoring & cont
 ---
 ### In-depth explanations  
 
-- [[readme|D8 Monitoring & Control Explanations (ReadMe)]] → full doctrinal definitions and usage guidance for this delta lane.  
+- [[d8-monitoring-control/readme|D8 Monitoring & Control Portal(ReadMe)]] → full doctrinal definitions and usage guidance for this delta lane.  
 
 ---
 ### Links to Other Delta Lanes  

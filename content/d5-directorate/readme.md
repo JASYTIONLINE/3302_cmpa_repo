@@ -1,5 +1,5 @@
 ---
-title: This Page Intentionally Left Blank
+title: "D5 Directorate (ReadMe): This Page Intentionally Left Blank"
 date: 2025-08-29
 draft: false
 tags:
@@ -13,13 +13,11 @@ classification: public
 retention: permanent
 integrityCheck: true
 ---
-# This Page is intentionally Left Blank
+# D5 Directorate (ReadMe) This Page intentionally Left Blank
 
 To show I did not forget to add a d5
 ---
-
 ### Navigation
-
 - [[d5-directorate/index|D5 Directorate Home]]
 - [[index|CMPA 3302 Knowledge Base Portal - Home]]
 

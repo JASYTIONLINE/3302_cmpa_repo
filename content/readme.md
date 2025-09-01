@@ -1,5 +1,5 @@
 ---
-title: CMPA 3302 Knowledge Base Explained
+title: What is The CMPA 3302 Knowledge Base (ReadMe)
 date: 2025-08-29
 draft: false
 tags:
@@ -14,7 +14,7 @@ retention: permanent
 integrityCheck: true
 ---
 - [[index|CMPA 3302 Knowledge Base Portal - Home]]
-# CMPA 3302 Knowledge Base Explained
+# What is The CMPA 3302 Knowledge Base (ReadMe)
 
 This readme explains the purpose of the **CMPA 3302 knowledge base** contained in the `contents` folder. where the CMPA 3302 Knowledge Base Portal is the map, this file defines **what this system is for, how it works, and how it should be used**. 
 
@@ -61,7 +61,7 @@ The purpose of this system is to create a **portal and operating model** for all
 - [[d2-knowledge/index|D2 Knowledge Center Portal]]
 - [[d3-workspace/index|D3 Workspace Portal]] 
 - [[d4-sustainment/index|D4 Sustainment Center]]  
-- [[/d5-in]]
+- [[/d5-directorate/index|D5 Directorate]]
 - [[d6-systems-integration/index|D6 Systems Integration Portal]]  
 - [[d7-learning/index|D7 Learning Center Portal]]  
 - [[d8-monitoring-control/index|D8 QA/QC Monitor & Control Portal]]  

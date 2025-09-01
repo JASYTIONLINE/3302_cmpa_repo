@@ -1,5 +1,5 @@
 ---
-title: The Learning Center(ReadMe)
+title: What is The Learning Center Portal(ReadMe)
 date: 2025-08-29
 draft: false
 tags:
@@ -14,14 +14,14 @@ classification: public
 retention: permanent
 integrityCheck: true
 ---
-# The Learning Center Explained
+# What is The Learning Center (ReadMe)
 
 This ReadMe explains the **learning delta lane**. where the index is the map, this page defines **what this lane is for, how it works, and when it should be used**.  
 
 ---
 ### Navigation
 
-- [[./index|Back to The D7 Learning Center Portal]]  
+- [[d7-learning/index|Back to the D7 Learning Portal]]  
 - [[index|CMPA 3302 Knowledge Base Portal - Home]]
 
 ---

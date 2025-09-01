@@ -13,17 +13,14 @@ classification: public
 retention: permanent
 integrityCheck: true
 ---
-- [[index|Home – CMPA 3302 Knowledge Base Portal]]
 # Workflow Explanations
 
 This ReadMe explains the **Workflow Delta Lane**. Where the index is the map, this page defines **what this lane is for, how it works, and when it should be used**.  
 
 ---
 ### Navigation
-
-- [[./index|Back to Workflow Index]]  
-- [[d3-workspace/index|Go to D3 – Workspace]]  
-
+- [[d3-workspace/index|Back to The D3 Workspace Portal]]  
+- [[index|CMPA 3302 Knowledge Base Portal - Home]]
 ---
 
 ## What is Workflow?

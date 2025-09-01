@@ -21,9 +21,9 @@ This ReadMe explains the **Knowledge Delta Lane**. Where the index is the map, t
 
 ### Navigation
 
-- [[./index|Back to D2 – Knowledge Center Portal]]  
-- [[../D0-Compliance/index|Go to D0 – Compliance]]  
-- [[../D3-Workspace/index|Go to D3 – Workspace]]  
+- [[d2-knowledge/index|Back to D2 – Knowledge Center Portal]]  
+- [[d0-compliance/index|Go to D0 – Compliance Portal]]  
+- [[../D3-Workspace/index|Go to D3 – Workspace Portal]]  
 - [[index|CMPA 3302 Knowledge Base Portal - Home]]
 
 ---

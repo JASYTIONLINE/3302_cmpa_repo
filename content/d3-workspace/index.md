@@ -43,7 +43,7 @@ Each week is further divided into the five PMI process groups:
 ---
 ### In-Depth Explanations  
 
-- [[./readme|D3 Workspace (ReadMe)]] → Full doctrinal definitions and usage guidance for this Delta Lane.  
+- [[d3-workspace/readme|D3 Workspace (ReadMe)]] → Full doctrinal definitions and usage guidance for this Delta Lane.  
 
 ---
 ### Links to Other Delta Lanes  
