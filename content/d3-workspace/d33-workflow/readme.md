@@ -21,7 +21,7 @@ This ReadMe explains the **Workflow Delta Lane**. Where the index is the map, th
 ---
 ### Navigation
 
-- [[index|Back to Workflow Index]]  
+- [[./index|Back to Workflow Index]]  
 - [[d3-workspace/index|Go to D3 – Workspace]]  
 
 ---

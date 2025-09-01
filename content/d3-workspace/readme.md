@@ -1,5 +1,5 @@
 ---
-title: What is a Workspace (ReadMe)
+title: What is The D3 Workspace (ReadMe)
 date: 2025-08-29
 draft: false
 tags:
@@ -13,11 +13,9 @@ classification: public
 retention: permanent
 integrityCheck: true
 ---
-# Workspace Explanations
+# What is The D3 Workspace (ReadMe)
 
-This README explains the **Workspace Lane**. Where the index is the
-map, this page defines **what this lane is for, how it works, and when it
-should be used**.  
+This README explains the **Workspace Lane**. Where the index is the map, this page defines **what this lane is for, how it works, and when it should be used**.  
 
 ---
 

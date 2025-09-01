@@ -1,5 +1,5 @@
 ---
-title: Knowledge Center Portal
+title: D2 Knowledge Center Portal
 date: 2025-08-29
 draft: false
 tags:

@@ -1,5 +1,5 @@
 ---
-title: Learning Center Portal
+title: D7 Learning Center Portal
 date: 2025-08-29
 draft: false
 tags:
@@ -14,7 +14,7 @@ classification: public
 retention: permanent
 integrityCheck: true
 ---
-# Learning Center Portal
+# D7 Learning Center Portal
 TBP  
 
 ---

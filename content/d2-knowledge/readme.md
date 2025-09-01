@@ -1,5 +1,5 @@
 ---
-title: D2 Knowledge Center Portal
+title: What is the D2 Knowledge Center (ReadMe)
 date: 2025-08-29
 draft: false
 tags:
@@ -13,32 +13,26 @@ classification: public
 retention: permanent
 integrityCheck: true
 ---
-# D2 – Knowledge Center Explained
+# D2 – Knowledge Center Explained (ReadMe)
 
-This ReadMe explains the **Knowledge Delta Lane**. Where the index is the
-map, this page defines **what this lane is for, how it works, and when it
-should be used**.  
+This ReadMe explains the **Knowledge Delta Lane**. Where the index is the map, this page defines **what this lane is for, how it works, and when it should be used**.  
 
 ---
 
 ### Navigation
 
-- [[./index|Back to D2 – Knowledge Index]]  
+- [[./index|Back to D2 – Knowledge Center Portal]]  
 - [[../D0-Compliance/index|Go to D0 – Compliance]]  
 - [[../D3-Workspace/index|Go to D3 – Workspace]]  
 - [[index|CMPA 3302 Knowledge Base Portal - Home]]
 
 ---
 
-## What is D2 the D2 Knowledge Center?
+## What is the D2 Knowledge Center?
 
-D2–Knowledge is the **Information Management / KMS lane**. Its function
-is to define the **rules and systems for handling information** in the
-repo: how files are named, how folders are structured, how metadata is
-applied, and how information can be retrieved later.  
+D2–Knowledge is the **Information Management / KMS lane**. Its function is to define the **rules and systems for handling information** in the repo: how files are named, how folders are structured, how metadata is applied, and how information can be retrieved later.  
 
-This lane does not contain the knowledge itself (notes, drafts, or
-deliverables) but instead **governs how knowledge is organized**.  
+This lane does not contain the knowledge itself (notes, drafts, or deliverables) but instead **governs how knowledge is organized**.  
 
 ---
 
@@ -46,7 +40,7 @@ deliverables) but instead **governs how knowledge is organized**.
 
 D2 organizes its guidance into three functional areas:  
 
-- [[d2-knowledge/naming-conventions/index|Naming Conventions]] → How to write file and folder names (lowercase, kebab-case, shortcodes).  
+- [[d2-knowledge/naming-conventions/index|Naming Conventions]] → How to write file and folder names (lowercase, kebab-case, short codes).  
 - [[Obsidian 1|Filing Standards]] → Where to place documents, how to cross-link them, and how retention rules apply.  
 - [[d2-knowledge/retrieval/index|Retrieval]] → How to make information accessible through metadata, tags, and navigation paths.  
 Together, these ensure that every document is **traceable, auditable, and retrievable according to DEIHC standards**.

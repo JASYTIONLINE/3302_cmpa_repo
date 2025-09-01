@@ -1,5 +1,5 @@
 ---
-title: The D5 Section has not been established
+title: This Page Intentionally Left Blank
 date: 2025-08-29
 draft: false
 tags:
@@ -13,21 +13,19 @@ classification: public
 retention: permanent
 integrityCheck: true
 ---
-# This page is intentionally left Blank
+# This Page is intentionally Left Blank
 
-Just here to show I skipped D5 on purpose
-
+To show I did not forget to add a d5
 ---
+
 ### Navigation
 
+- [[d5-directorate/index|D5 Directorate Home]]
 - [[index|CMPA 3302 Knowledge Base Portal - Home]]
-
----
 
 ---
 ### Links to Other Delta Lanes  
 
-- [[d0-compliance/index|D0 Compliance Directorate Portal]]
 - [[d1-personal/index|D1 Personal Portal]]  
 - [[d2-knowledge/index|D2 Knowledge Center Portal]]
 - [[d3-workspace/index|D3 Workspace Portal]] 
@@ -35,10 +33,5 @@ Just here to show I skipped D5 on purpose
 - [[d6-systems-integration/index|D6 Systems Integration Portal]]  
 - [[d7-learning/index|D7 Learning Center Portal]]  
 - [[d8-monitoring-control/index|D8 QA/QC Monitor & Control Portal]]  
+
 ---
-#### **References**  
-
-- **PMBOK 6th Edition** — process group alignment.  
-- **PMBOK 7th Edition** — domains of delivery and resources.  
-- **ISO 30401** — Knowledge Management Systems.  
-

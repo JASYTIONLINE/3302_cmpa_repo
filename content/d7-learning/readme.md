@@ -1,5 +1,5 @@
 ---
-title: The Learning Center - ReadMe
+title: The Learning Center(ReadMe)
 date: 2025-08-29
 draft: false
 tags:
@@ -21,11 +21,11 @@ This ReadMe explains the **learning delta lane**. where the index is the map, th
 ---
 ### Navigation
 
-- [[./index|Back to d7 – Learning Center]]  
+- [[./index|Back to The D7 Learning Center Portal]]  
 - [[index|CMPA 3302 Knowledge Base Portal - Home]]
----
 
-## What is The D7 Learnin Center?
+---
+## What is The D7 Learning Center?
 
 The D7 Learning Center is the place for **continuous improvement lane** of the the student.  
 It captures the lessons, tools, and reviews that help the student improve performance over time.  
@@ -33,7 +33,6 @@ It captures the lessons, tools, and reviews that help the student improve perfor
 Where **D1 Personnel** defines “what i do well / what i need to improve,” The D7 provides the **resources and structure for making those improvements happen**.  
 
 ---
-
 ## How it Works
 
 The Learning Center is organized chronologically across the improvement cycle:  
@@ -45,7 +44,6 @@ The Learning Center is organized chronologically across the improvement cycle:
 Together, these ensure a structured cycle of lessons before, during, and after every project.  
 
 ---
-
 ## When to Employ It
 
 Use The Learning Center when you need to:  
@@ -54,7 +52,6 @@ Use The Learning Center when you need to:
 - apply structured reflection and feedback loops into your workflow.  
 
 ---
-
 ## Similarities to other Delta lanes
 
 - like d1 (personnel), it involves **reflection and growth**.  
@@ -62,7 +59,6 @@ Use The Learning Center when you need to:
 - like d8 (monitoring & control), it ties into **evaluation and lessons learned**.  
 
 ---
-
 ## Distinctions from Other Delta lanes
 
 - **D1 Personal:** defines *the current state* (strengths and weaknesses). d7 defines *how to improve that state*.  
@@ -72,7 +68,6 @@ Use The Learning Center when you need to:
 Analogy: **D1 is the self-assessment, D5 is the rhythm, D7 is the continuous improvement toolkit.**
 
 ---
-
 ## Purpose of The D7 Learning Center
 
 the purpose of d7 is to ensure that learning and improvement are captured, not lost.  

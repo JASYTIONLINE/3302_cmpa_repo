@@ -43,7 +43,7 @@ academic standards.
 ---
 ### In-Depth Explanations  
 
-- [[d0-compliance/readme|Compliance Directorate Explained]] → Full doctrinal
+- [[d0-compliance/readme|Compliance Directorate Explained (ReadMe)]] → Full doctrinal
   definitions and usage guidance for this Delta Lane.  
 
 ---

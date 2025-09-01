@@ -1,5 +1,5 @@
 ---
-title: D4 Systems Integration Protal
+title: D6 Systems Integration Portal
 date: 2025-08-29
 draft: false
 tags:

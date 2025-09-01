@@ -34,6 +34,7 @@ The **purpose of this page** is to ensure that users of the repo can move seamle
 - [[d2-knowledge/index|D2 Knowledge Center Portal]]  Controls information management standards (naming, filing, retrieval).
 - [[d3-workspace/index|D3 Workspace Portal]] Houses weekly work cycles and project deliverables by process group.
 - [[d4-sustainment/index|D4 Sustainment Portal]]  Stores tools, templates, and support materials that sustain operations.
+- [[d5-directorate/index|The D5 Directorate]] This Directorate Has Not Been Assigned
 - [[d6-systems-integration/automation-tools/obsidian|D6  Systems Integration Portal]] → Defines folder structures, naming conventions, and tool interoperability.
 - [[d7-learning/index|D7 Learning Portal]] Captures preparation, execution, and reflection lessons for continuous improvement.
 - [[d8-monitoring-control/index|D8 Quality Monitor & Control Portal]] → Stores rubrics, iterative evaluations, and oversight procedures.

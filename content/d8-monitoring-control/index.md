@@ -1,5 +1,5 @@
 ---
-title: Quality Monitor & Control Portal
+title: D8 Quality Monitor & Control Portal
 date: 2025-08-29
 draft: false
 tags:

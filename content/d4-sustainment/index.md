@@ -3,7 +3,6 @@ title: D4 Sustainment Portal
 date: 2025-08-29
 draft: false
 tags:
-  - readme
   - sustainment
   - support
   - tools
@@ -20,9 +19,8 @@ Placeholder for the D4 Portal
 ---
 ### Navigation
 
+- [[d4-sustainment/readme|What is the D4 Sustainment Portal (ReadMe)]]
 - [[index|CMPA 3302 Knowledge Base Portal - Home]]
-
----
 
 ---
 ### Links to Other Delta Lanes  

@@ -61,6 +61,7 @@ The purpose of this system is to create a **portal and operating model** for all
 - [[d2-knowledge/index|D2 Knowledge Center Portal]]
 - [[d3-workspace/index|D3 Workspace Portal]] 
 - [[d4-sustainment/index|D4 Sustainment Center]]  
+- [[/d5-in]]
 - [[d6-systems-integration/index|D6 Systems Integration Portal]]  
 - [[d7-learning/index|D7 Learning Center Portal]]  
 - [[d8-monitoring-control/index|D8 QA/QC Monitor & Control Portal]]  
