@@ -18,7 +18,7 @@ This index page is the navigational entry point for the CMPA 3302 Assets Storage
 
 ---
 ## Related Categories
-- [[01-deliverables/index|Deliverables Storage Silo]]
+- Artifacts (finished Products) are stored in the [[01-deliverables/index|Deliverables Storage Silo]] while Assets (finishing Touches) are stored in the Asset Storage Silo.  Both Silos are storage facilities for different types of products.
 - [[02-knowledge-center/index|Knowledge Center]]
 - [[03-workshop/index|Workshop Portal]]
 - [[04-admin/index|Reference Home]]

@@ -20,7 +20,7 @@ This index page is the navigational entry point for the CMPA 3302 Knowledge Cent
 
 ---
 ## Related Categories
-- [[01-deliverables/index|Deliverables Storage Silo]]
+- The [[01-deliverables/index|Deliverables Storage Silo]] is where you can find the final artifacts created during this class, and the Knowledge Center is where you can find the intellectual property used by the creator to manufacture Artifacts.
 - [[03-workshop/index|Workshop Portal]]
 - [[04-admin/index|Administration Portal]]
 - [[05-assets/index|Asset Storage Silo]]

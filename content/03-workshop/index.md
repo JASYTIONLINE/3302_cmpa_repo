@@ -18,7 +18,7 @@ This index page is the navigational entry point for the CMPA 3302 Workshop.  Thi
 
 ---
 ## Related Categories
-- [[01-deliverables/index|Deliverables Storage Silo]]
+- Where the Workshop is the Forge, The [[01-deliverables/index|Deliverables Storage Silo]] is the Armory where the finished Artifacts are housed.  
 - [[02-knowledge-center/index|Knowledge Center]]
 - [[04-admin/index|Administration Portal]]
 - [[05-assets/index|Asset Storage Silo]]

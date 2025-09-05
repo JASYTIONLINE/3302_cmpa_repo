@@ -26,8 +26,8 @@ Here you will find either the final product (i.e. .md file) or proof (i.e. Scree
 The Deliverables Storage Silo is organized chronologically by **weekly work cycles**. There is a subfolder for each week of the course. The sub categories are separated by each week from Week 1 though Week 8.
 
 For example:  
-- **Week 01 - houses all documents or proof of submission for week 1 on CMPA 3302
-- **Week 02-houses all documents or proof of submission for week 2 on CMPA 3302
+- Week 01 - houses all documents or proof of submission for week 1 on CMPA 3302
+- Week 02-houses all documents or proof of submission for week 2 on CMPA 3302
 
 This keeps every assignment traceable through the full project lifecycle an gives proof of completion and time stamp incase of submission errors.
 
