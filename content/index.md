@@ -1,41 +1,33 @@
 ---
-title: CMPA 3302 Knowledge Base Repository - HOME
+title: CMPA 3302 Knowledge Base Repository Portal
 date: 2025-08-29
 draft: false
 tags:
   - index
   - navigation
   - knowledge-base
-function: D0-Compliance
+function: Knowledge Base Index
 shortcode: "[i]"
 classification: public
 retention: permanent
 integrityCheck: true
 ---
-# CMPA 3302 Knowledge Base - Home Base
+# CMPA 3302 Knowledge Base Repository Portal
 
-This index page is the **navigational tool and portal into the CMPA 3302 knowledge base.** Its primary function is to serve as the entry point into the repository, allowing quick access to every **Delta Lane** and to the internal explanations on the
+This index page is the navigational tool and portal into the *CMPA 3302 Early Fall 2025 TTU Online Foundations of Information Organization and Management (CMPA-3302-D01) knowledge base.*
 
-The **index page functions as:**
-- **Navigation:** Provides quick-links into each Delta Lane (D0–D9) and to   the README.
-- **Orientation:** Shows where to find the doctrinal explanations of each   lane.
-- **Compliance Hub:** Ensures the repo structure aligns with DEIHC   standards.
-
-The **purpose of this page** is to ensure that users of the repo can move seamlessly between the knowledge base structure and the explanatory doctrine that governs it. This page is both a **map** and a **guide**: it shows where everything is stored and explains how to use it.
+Its primary function is to serve as the entry point into the repository, allowing quick access to all contents related to CMPA 3302.
 
 ---
-### [[readme|What is the CMPA 3302 Knowledge Base (ReadMe)]]
+## Main Categories
+
+[[01-deliverables/index|Deliverables]] - Archive of finished Course material submitted for grading
+[[02-knowledge-center/index|Knowledge Center Portal]] - Center for Insight gained and lessons learned throughout the course.
+[[03-workshop/index|Workshop Portal]] - Main Work Area for completed support documents and in-process drafts for each week's Assignments, Exercises, and Projects
+[[04-admin/index|Administration Portal]] - Portal to all things related to the administration and structure of CMPA 3302
+[[05-assets/index|Asset storage Silo]] - Contains Assets used in the creation of published pages within the KB
+[[private/index|Private Folder]] - Storage area for any documents or assets requiring indexing and version control that will not be published to GH Pages 
 
 ---
-### Quick Links → Delta Lanes & Explanations
-
-- [[d0-compliance/index|D0 Compliance Directorate Portal]]  Governs repo-wide standards,   policies, and compliance rules.
-- [[d1-personal/index|D1 Personal Portal]]  Defines the student’s academic   role and responsibilities at Texas Tech.
-- [[d2-knowledge/index|D2 Knowledge Center Portal]]  Controls information management standards (naming, filing, retrieval).
-- [[d3-workspace/index|D3 Workspace Portal]] Houses weekly work cycles and project deliverables by process group.
-- [[d4-sustainment/index|D4 Sustainment Portal]]  Stores tools, templates, and support materials that sustain operations.
-- [[d5-directorate/index|The D5 Directorate]] This Directorate Has Not Been Assigned
-- [[d6-systems-integration/automation-tools/obsidian|D6  Systems Integration Portal]] → Defines folder structures, naming conventions, and tool interoperability.
-- [[d7-learning/index|D7 Learning Portal]] Captures preparation, execution, and reflection lessons for continuous improvement.
-- [[d8-monitoring-control/index|D8 Quality Monitor & Control Portal]] → Stores rubrics, iterative evaluations, and oversight procedures.
-
+## Quick Links → Subfolders  
+- [[readme|What is the CMPA 3302 Knowledge Base (ReadMe)]]
